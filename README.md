@@ -31,6 +31,6 @@ non-linear progression during the foreshock sequence. Ongoing analyses include t
 spatial clustering, directional consistency metrics, and comparison with previous high-activity
 sequences. These results provide quantitative insights into the behavior of the foreshock
 sequence that began on July 20, 2025, and on high-activity sequences in the Kuril-Kamchatka
-trench, offering insights for future analysis
+trench, offering insights for future analysis.
 
 If you're attending SSA2026, come say hi :)
