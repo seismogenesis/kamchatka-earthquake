@@ -2,13 +2,17 @@
 Spatiotemporal analysis of seismicity related to the 2025, July 29 Mw8.8 Kamchatka Peninsula Earthquake.
 More analysis will come in the future and will be posted here.
 
-UPDATE: A newer version of this project has been accepted for poster presentation at the 2026 Seismological Society of America annual meeting in Pasadena, CA from April 14-18. This project will be in the session "SSJ-SSOC-SSA Joint Session: Lessons from Recent Major Earthquake Sequences Around the World". This repo will be updated to reflect this version once it's cleaned up, and I'll also upload the poster itself here.
+<p style="color: rgb(0, 0, 255);">UPDATE: A newer version of this project has been accepted for poster presentation at the 2026 Seismological Society of America annual meeting in Pasadena, CA from April 14-18. This project will be in the session "SSJ-SSOC-SSA Joint Session: Lessons from Recent Major Earthquake Sequences Around the World". This repo will be updated to reflect this version once it's cleaned up, and I'll also upload the poster itself here.</p>
 
 For now, here's the abstract info:
+
 Abstract Title
+
 Spatiotemporal and Statistical Analysis of Foreshock Activity Preceding the 2025 July 29 Mw 8.8
 Kamchatka Peninsula Earthquake
+
 Abstract Description
+
 The July 29, 2025, Mw 8.8 Kamchatka Peninsula earthquake was preceded by a 10-day foreshock
 sequence, including a Mw 7.4 and three Mw 6.6 events that began on July 20. I conducted a
 comprehensive spatiotemporal and statistical characterization of this sequence to quantify its
