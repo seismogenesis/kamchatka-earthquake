@@ -4,6 +4,8 @@ More analysis will come in the future and will be posted here.
 
 4-21 This repository is outdated. I will be updating everything here this week to reflect the project's current state as was presented at SSA2026. Will add a note here once this repo is updated.
 
+I attached the poster here, but cannot display the flipbook on the pdf itself. In-person, there was a printed flipbook that was placed in front of the poster. This .gif shows the animation:
+
 <p style="color: rgb(0, 0, 255);">UPDATE: A newer version of this project has been accepted for poster presentation at the 2026 Seismological Society of America annual meeting in Pasadena, CA from April 14-18. This project will be in the session "SSJ-SSOC-SSA Joint Session: Lessons from Recent Major Earthquake Sequences Around the World". This repo will be updated to reflect this version once it's cleaned up, and I'll also upload the poster itself here.</p>
 
 For now, here's the abstract info:
