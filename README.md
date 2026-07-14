@@ -4,7 +4,8 @@ More analysis will come in the future and will be posted here.
 
 4-21 This repository is outdated. I will be updating everything here this week to reflect the project's current state as was presented at SSA2026. Will add a note here once this repo is updated.
 
-Poster:
+Poster: (you may have to download this and open it in your pdf reader if it will not render in GitHub's viewer)
+
 https://github.com/seismogenesis/kamchatka-earthquake/blob/main/KamchatkaPosterFinal.pdf
 
 I attached the poster here, but cannot display the flipbook on the pdf itself. In-person, there was a printed flipbook that was placed in front of the poster. This .gif shows the animation:
